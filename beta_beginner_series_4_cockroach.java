@@ -12,7 +12,6 @@ Waiting for translations and Feedback!
 
 public class Cockroach{
   public int cockroachSpeed(double x){
-    // Good Luck!
     return (int) (x*100000/(60*60));
   }
 }
